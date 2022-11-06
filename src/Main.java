@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        String str= "helloworld";
+        String str= "helloоworld";
         String[] taskCourse = taskCourse(str);
         System.out.println(taskCourse[0] + " " + taskCourse[1]);
         }
